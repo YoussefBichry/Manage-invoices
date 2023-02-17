@@ -61,6 +61,20 @@
 
   #####  - Créer un Realm
 ![Capture d'écran_20230119_150206](https://user-images.githubusercontent.com/75500068/219732331-fba2e53a-7d87-4565-a593-dfc38216c7ff.png)
+ 
+  ##### - Créer un client à sécuriser
+![Capture d'écran_20230119_151156](https://user-images.githubusercontent.com/75500068/219733007-193f41b7-ddf8-4e1b-95d0-7c670622ddde.png)
+![Capture d'écran_20230119_151350](https://user-images.githubusercontent.com/75500068/219733375-eb9e5bb4-133e-4c04-b8c4-291c9a0cc5bc.png)
+![Capture d'écran_20230119_151734](https://user-images.githubusercontent.com/75500068/219733461-7e79a186-8602-4e17-aabe-510a35c0a337.png)
+
+  #####  - Créer des utilisateurs
+![Capture d'écran_20230119_153149](https://user-images.githubusercontent.com/75500068/219733608-84e1bef8-98a5-449c-b350-ad087b39bf4a.png)
+
+ ##### - Créer des rôles
+![Capture d'écran_20230119_154107](https://user-images.githubusercontent.com/75500068/219733888-ccba580b-ee9f-4770-98b5-b86fcf090490.png)
+
+  ##### - Affecter les rôles aux utilisateurs
+![-](https://user-images.githubusercontent.com/75500068/219734270-c95193a7-9561-4b1e-a13f-c33b60761f2e.png)
 
      
      

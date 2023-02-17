@@ -44,9 +44,42 @@
 ![Capture d’écran 2023-02-17 175124](https://user-images.githubusercontent.com/75500068/219716109-78941b77-716e-4be4-9455-26e231571912.png)
 
 #### 6. Créer le service de facturation Billing-Service en utilisant Open Feign
-
+![bill1](https://user-images.githubusercontent.com/75500068/219718412-6d541a67-3536-487e-919b-c5050848f9fd.png)
+![bill2](https://user-images.githubusercontent.com/75500068/219718453-bb448548-c2af-45af-9f7a-f11f9c6b469b.png)
     
+     #####  . Pour le test :http://localhost:8083/bills
   
-  
+#### 7. Créer un client Web Angular (Clients, Produits, Factures)
+  ![an1](https://user-images.githubusercontent.com/75500068/219720036-77be1389-7ad3-4fec-a2c0-be7fbb55dbdc.png)
+  ![ang2](https://user-images.githubusercontent.com/75500068/219720051-0d6e93cc-cdf2-4db4-86a3-2839e4ce3445.png)
+
+     #####  . Pour l'affichag
+ ![Capture d’écran 2023-02-17 181753](https://user-images.githubusercontent.com/75500068/219720584-50ff511a-2038-4868-92b7-a3567ca11ff3.pnge :http://localhost:4200
+     
+#### 8. Déployer le serveur keycloak :
+![Capture d'écran_20230119_145602](https://user-images.githubusercontent.com/75500068/219721639-16f0c477-e242-43ca-8723-83d5c80a455c.png)
+
+     ##### . Créer un Realm
+     ![Capture d'écran_20230119_150206](https://user-images.githubusercontent.com/75500068/219721779-4c38d03d-03fc-4bb6-bfb3-f8ac63085698.png)
+     
+     ##### . Créer un client à sécuriser
+     ![Capture d'écran_20230119_151156](https://user-images.githubusercontent.com/75500068/219722086-1e9a1ded-16b1-41ce-ae08-2474c609ddf6.png)
+     ![Capture d'écran_20230119_151350](https://user-images.githubusercontent.com/75500068/219722320-95b08f90-be07-4707-978c-5bbf7eb6151c.png)
+     
+     ##### . Créer des utilisateurs
+     ![Capture d'écran_20230119_153149](https://user-images.githubusercontent.com/75500068/219722585-1eca7dde-a69a-4550-94f1-4dd4a3e1f254.png)
+     
+     ##### . Créer des rôles
+     ![Capture d'écran_20230119_154107](https://user-images.githubusercontent.com/75500068/219722838-430d6853-548c-4b2e-82f8-c81ae33db89a.png)
+     ![206852634-aeb06e3e-86a9-448a-b5e9-738afc9c3a96](https://user-images.githubusercontent.com/75500068/219723151-407470fd-9bb3-4c5c-82dd-ddbc4456cbe9.png)
+     
+     ##### . Affecter les rôles aux utilisateurs
+     
+     
+     
+     
+     
+     
+     
 
 

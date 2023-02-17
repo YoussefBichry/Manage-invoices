@@ -74,7 +74,19 @@
 ![Capture d'écran_20230119_154107](https://user-images.githubusercontent.com/75500068/219733888-ccba580b-ee9f-4770-98b5-b86fcf090490.png)
 
   ##### - Affecter les rôles aux utilisateurs
-![-](https://user-images.githubusercontent.com/75500068/219734270-c95193a7-9561-4b1e-a13f-c33b60761f2e.png)
+![Capture d’écran 2023-02-17 185037](https://user-images.githubusercontent.com/75500068/219735646-bfc2dfc8-caf7-4226-9772-cebf249e79a8.png)
+
+  ##### - Tester les différents modes d'authentification avec Postman en montrant les contenus de Access-Token, Refresh Token 
+  ###### Authentification avec mot de passe.
+  ![KeycloakPassword](https://user-images.githubusercontent.com/75500068/219737297-c457004e-de65-4407-82aa-ae2f27c71ac8.png)
+###### Analyse du contenu des deux JWT AccessToken et Refresh Token.
+![token](https://user-images.githubusercontent.com/75500068/219737783-9f0d8551-c4f8-4d58-a96e-f0fa53d1f37e.png)
+ ###### Authentification avec le jeton de rafraîchissement.
+ ![KeycloakRefreshToken](https://user-images.githubusercontent.com/75500068/219738145-29a1b262-55e7-4b1b-ae54-7d0e3227f2b2.png)
+  ###### Authentification avec ID client et secret client.
+![KeycloakSecretKey](https://user-images.githubusercontent.com/75500068/219738656-e5562de8-1a08-4571-a98b-4b3a08952a30.png)
+
+ 
 
      
      

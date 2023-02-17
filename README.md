@@ -86,7 +86,11 @@
   ###### Authentification avec ID client et secret client.
 ![KeycloakSecretKey](https://user-images.githubusercontent.com/75500068/219738656-e5562de8-1a08-4571-a98b-4b3a08952a30.png)
 
- 
+#### 9. Sécuriser les micro-services et le frontend angular en déployant les adaptateurs Keycloak
+ ##### Page de connexion
+![w1](https://user-images.githubusercontent.com/75500068/219740649-3ccd84d7-a2e9-403b-a61c-f95cb37a93c6.png)
+ ##### Interface utilisateur normale
+ ![w3](https://user-images.githubusercontent.com/75500068/219741551-271d112e-dc12-43a2-bf66-bed4237a1a84.png)
 
      
      

@@ -31,4 +31,22 @@
 ![Capture d’écran 2022-12-08 154038](https://user-images.githubusercontent.com/75500068/206475279-a9301f64-7488-498b-9d44-5aa7249e36e4.png)
  
    #####  . Les dependances :GateWay,Eureka Discovery Client,Spring Boot Actuator.
+#### 4. Créer l'annuaire Eureka Discrovery Service :
+
+![Capture d’écran 2023-02-17 175124](https://user-images.githubusercontent.com/75500068/219714994-5f4ab25d-be2a-4374-ba51-d311a1bc70d5.png)
+
+![Capture d’écran 2023-02-17 175206](https://user-images.githubusercontent.com/75500068/219715046-36fcba4b-2249-482f-888d-e1da26dc48ac.png)
+
+    #####  . Pour le test :http://localhost:8761 :
+    ![206577335-3bb77244-86f3-4690-b852-9ef0edbbfbc6](https://user-images.githubusercontent.com/75500068/219715765-88778354-cd39-42d3-b771-3c921efc3955.png)
+    
+#### 5. Faire une configuration dynamique des routes de la gateway
+![Capture d’écran 2023-02-17 175124](https://user-images.githubusercontent.com/75500068/219716109-78941b77-716e-4be4-9455-26e231571912.png)
+
+#### 6. Créer le service de facturation Billing-Service en utilisant Open Feign
+
+    
+  
+  
+
 
